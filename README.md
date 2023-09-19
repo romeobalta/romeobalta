@@ -2,8 +2,8 @@
 
 I'm romeo 🔥
 
-- 📱 Mobile engineer.
-- 💼 Working as a software engineer for around 15 years.
+- 📱 Currently working as a mobile engineer.
+- 💼 Been working as a software developer for around 15 years.
 - 📊 Currently studying data science.
 - 💡 On a journey to test as many business ideas as I can.
 - 👨‍👩‍👧‍👦 Dad of 2 amazing 👦🏻👦🏻 and husband of a very smart and beautiful 👩🏻.
