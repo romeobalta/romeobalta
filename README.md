@@ -2,7 +2,7 @@
 
 I'm romeo 🔥
 
-- 📱 Mobile engineer at NatWest Boxed.
+- 📱 Mobile engineer.
 - 💼 Working as a software engineer for around 15 years.
 - 📊 Currently studying data science.
 - 💡 On a journey to test as many business ideas as I can.
